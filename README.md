@@ -1,8 +1,2 @@
-# personal_projects
-# personal_projects
-# personal_projects
-# personal-projects
-# personal-projects
-# personal-projects
-# personal-projects
-# personal-projects
+These are my personal projects in python
+
